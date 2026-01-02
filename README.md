@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 Coba aplikasi dashboard interaktif di sini:  
-### [👉 Klik Disini untuk Membuka Aplikasi](https://link-streamlit-kamu-disini.streamlit.app)
+### [👉 Klik Disini untuk Membuka Aplikasi](https://chilli-paper-demand-forecasting.streamlit.app/)
 
 ---
 
@@ -66,7 +66,7 @@ Berdasarkan simulasi pada distributor skala menengah (omzet harian ~100 Kg):
 ## 📸 Screenshots
 
 *(Disini kamu bisa masukkan screenshot aplikasi Streamlit kamu nanti)*
-![Dashboard Preview](link-gambar-screenshot-kamu.png)
+![Dashboard Preview](app-ss.png)
 
 ---
 
@@ -76,7 +76,7 @@ Jika Anda ingin menjalankan project ini di komputer Anda:
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)
+    git clone [https://github.com/Marsello-or/Chilli-Paper-Demand-Forecasting.git](https://github.com/Marsello-or/Chilli-Paper-Demand-Forecasting.git)
     cd nama-repo
     ```
 
@@ -94,9 +94,10 @@ Jika Anda ingin menjalankan project ini di komputer Anda:
 
 ## 👤 Author
 
-**[Nama Kamu]** *Agroindustry Student & Aspiring Data Scientist*
+**[Marsello Ormanda]** *Agroindustry Student & Aspiring Data Scientist*
 
 Tertarik mendiskusikan project ini atau kolaborasi?  
-Connect with me on [LinkedIn](https://linkedin.com/in/username-kamu) or check my [Portfolio](https://link-portfolio-kamu).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/marsello-ormanda/) or check my [Portfolio](https://drive.google.com/file/d/14ZcWJSMYheUqy-Z6Qpajqc7vatfexp21/view?usp=sharing).
+
 
 ---
