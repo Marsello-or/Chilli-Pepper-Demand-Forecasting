@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import xgboost as xgb
+import joblib
 
 # --- CONFIG HALAMAN ---
 st.set_page_config(
@@ -89,4 +90,5 @@ if st.button("Prediksi Permintaan!"):
             st.warning("Tips: Pastikan fitur input di app.py sama persis dengan X_train di Colab.")
 
     else:
+
         st.error("Model belum dimuat. Pastikan file .json ada.")
